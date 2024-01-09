@@ -31,5 +31,11 @@
     console.log(newarr.length,'this is the length')
     newarr.forEach((a,i)=>{
         console.log(a,i)
-
     }) 
+    // let newwarr = [ 1,2,3,4,5,6,7,8,9,10]
+    // console.log(newarr.length,'this is the length')
+    // newarr.forEach(()=>{
+    //     console.log(a,i)
+    // }) 
+                       //map
+   
