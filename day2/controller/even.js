@@ -9,7 +9,7 @@ exports.evennumber = (req, res) => {
     }
 
     res.json({
-        message: "Here are the even numbers",
+        message: "Take your even number",
         data: evenNumbers
     });
 }
